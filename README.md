@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @abygeorge8848
-- 👀 I’m interested in machine learning, web development and python, java software development. I can work with C as well.
+- 👋 Hi, I’m Aby!
+- 👀 I’m interested in machine learning, web development and python, java, javascript software development. I can work with C as well.
 - 🌱 I’m currently learning machine learning and web development
 - 💞️ I’m looking to collaborate on projects for various companies.
 - 📫 How to reach me - 8848175931
